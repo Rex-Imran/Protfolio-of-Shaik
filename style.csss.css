@@ -1,0 +1,51 @@
+.bg{
+    background-color: #f5f5dc;
+    background-size: cover;
+    height: 150vh;
+}
+
+.loca{
+display: flex;
+flex-direction: row;
+text-align: center;
+padding-left: 600px;
+padding-top: 10px;
+}
+
+.icon{
+display: flex;
+justify-content: space-between;
+font-family: serif;
+text-align: left;
+padding: 5px;
+padding-right: 5px;
+}
+.mobile{
+  display: flex;
+  justify-content: space-between;
+  padding-left: 5px;
+  padding-right: 5px;
+padding-bottom: 12px;
+}
+.c-obj{
+padding-left: 5px;
+}
+
+.s-accom{
+padding-left: 5px;
+}
+.qualifi{
+padding-left: 5px;
+}
+.cedm{
+padding-left: 5px;
+}
+.ac-p{
+font-family: serif;
+padding-left: 5px;
+}
+.amazon-clone{
+font-size: bold;
+font-family: serif;
+font-weight: 100;
+}
